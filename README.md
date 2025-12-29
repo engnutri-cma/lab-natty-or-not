@@ -24,7 +24,7 @@ Criei o podcast **"Nutrição em Código – Nutrição inteligente: IA, ciênci
 - 📱 Clips otimizados para Reels/Shorts (Descript auto-gerou)
 - 🎯 Perfeito para bootcamp DIO/Nexa – combina minha expertise em nutrição + health tech
 
-**Demo Episódio 1**: [Link do áudio]
+**Demo Episódio 1**: [Link do Ep 1](https://github.com/engnutri-cma/lab-natty-or-not/blob/main/IA%20e%20Nutri%C3%A7%C3%A3o.mp3)
 
 ## 💭 Reflexão
 O desafio "Natty or Not" foi vencido sem nem gravar áudio! A IA gerou voz idêntica à ideal só com prompt descritivo + edição ética. Isso prova que nutricionistas podem escalar conteúdo profissional
